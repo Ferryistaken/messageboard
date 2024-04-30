@@ -2,7 +2,7 @@
 
 > live demo: [message.alessandroferrari.live](https://message.alessandroferrari.live)
 
-This project uses simple Bash scripts to create a message logging and display system running inside a Docker container. The system consists of a message server script (`server.sh`) that listens for and logs messages, a web server script (`web.sh`) that serves the messages through a simple web interface, and a backup script (`backup.sh`) that performs daily backups of the messages.
+This project uses simple Bash scripts to create a messageboard and display system, which can be run inside a Docker container. The system consists of a message server script (`server.sh`) that listens for and logs messages, a web server script (`web.sh`) that serves the messages through a simple web interface, and a backup script (`backup.sh`) that performs daily backups of the messages.
 
 ## Quick Start
 
