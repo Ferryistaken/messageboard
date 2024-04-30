@@ -1,0 +1,10 @@
+
+
+
+
+
+
+-----------------------------------------
+2 /bin/bash scripts by Alessandro Ferrari
+
+A somewhat faithful recreation of nightfall.city/classifieds
