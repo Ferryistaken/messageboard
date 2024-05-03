@@ -5,6 +5,8 @@
 
 
 -----------------------------------------
-2 /bin/bash scripts by Alessandro Ferrari
+80 lines of Rust by Alessandro Ferrari.
+
+Source: https://github.com/Ferryistaken/messageboard
 
 A somewhat faithful recreation of nightfall.city/classifieds
