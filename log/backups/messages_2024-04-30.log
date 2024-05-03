@@ -1,0 +1,21 @@
+2024-04-29 19:15:26; message test\n
+2024-04-29 19:15:38; second test\n
+2024-04-29 19:16:53; no more newline
+2024-04-29 19:17:06; multi line
+message
+2024-04-29 19:21:41; ; new multi line handling
+; test
+2024-04-29 19:22:20; >	 multi multi
+>	 multi multi
+2024-04-29 19:24:11; multi line multi line
+> second line
+2024-04-29 19:25:10; same line multiline
+                    > same line multiline
+2024-04-29 19:25:40; fixed the same line mul-
+                   > tiline
+2024-04-29 19:27:02> new message style
+2024-04-29 19:33:14> messaggino in arrivo
+2024-04-30 12:53:34> new
+                   > da
+                   > new day
+                   > new message
